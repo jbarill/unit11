@@ -1,0 +1,2 @@
+Note JS basically runs Javascript in my local machine or server rather than using the browser.
+It relates to Javascript because this platform was built on Google Chrome's JavaScript Engine 
